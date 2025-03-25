@@ -1,4 +1,7 @@
+Módulo 3 - Variables - Laboratorio
+
 Grupos musicales
+
 Queremos mostrar información acerca de grupos musicales.
 
 Si estás trabajando con TypeScript habría que crear un interfaz para representar a un grupo musical.
