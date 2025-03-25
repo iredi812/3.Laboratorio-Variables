@@ -1,4 +1,4 @@
-Módulo 3 - Variables - Laboratorio
+Laboratorio Módulo 3 - Variables
 
 Grupos musicales
 
